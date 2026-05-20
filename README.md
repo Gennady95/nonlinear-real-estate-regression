@@ -48,8 +48,6 @@ ML-powered desktop application for nonlinear real estate price estimation.
 ## Run
 
 ```bash
-Программа с интерфейсом.exe
-or
 Программа с интерфейсом.py
 ```
 
